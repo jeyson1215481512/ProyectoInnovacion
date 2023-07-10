@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 #grafica = alt.Chart(df).mark.circle().encode(x="TV", y="Sales")
 #st.title("BIENVENIDOS A MI PAGINA")
-#st.altair_chart(grafica)
+#st.altair_chart(grafica)a
 #st.line_chart(df)
 
 st.title("App de prediccion de anemia para el Perú :pencil:")
